@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20210804-1126-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.16.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="BesouroAzul"
+	OSRelease="5.10.16.3-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Fri Apr 2 22:23:49 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="4096"
+	TotalPhysicalMemory="12677"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2904"
+	>
+	<Testing>
+		<StartDateTime>Aug 04 15:26 BST</StartDateTime>
+		<StartTestTime>1628087219</StartTestTime>
+		<TestList>
+			<Test>./test/ExampleTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>ExampleTest</Name>
+			<Path>./test</Path>
+			<FullName>./test/ExampleTest</FullName>
+			<FullCommandLine>/home/waldri/Cpp/CmakeTest/build/test/ExampleTest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0039821</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/waldri/Cpp/CmakeTest/build/test/ExampleTest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkMGqwjAQRff5ilnaRRP9ABei8haCStVVKY+8OtZgMlPSVP38Z00RFQTv6sIc5s6drCUyVIHThgYJHDw7UEd2qC7a7r1R07pWU6dPuMUmqIq5shjebONLVXXut1sjy1Lk44cKyPqMEXRMzOh905qAUuTpQwX8WP7TNs6RzsYzOaQbiyFt6zf4eef8ql1t74eKHLLdEu4qngdyho57Imq1+EDAYAiuSb7KiywEDtom4rs+AbVP93yh1299+hJ4TfI151ZhPdls5rOuZGSl+AcFe5OH====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 04 15:26 BST</EndDateTime>
+		<EndTestTime>1628087219</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

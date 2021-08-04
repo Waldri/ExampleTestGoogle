@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/waldri/Cpp/CmakeTest/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/Example.dir/src/Example.cpp.o -c /home/waldri/Cpp/CmakeTest/src/Example.cpp",
+  "file": "/home/waldri/Cpp/CmakeTest/src/Example.cpp"
+},
+{
+  "directory": "/home/waldri/Cpp/CmakeTest/build/googletest/googlemock",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/waldri/Cpp/CmakeTest/googletest/googlemock/include -isystem /home/waldri/Cpp/CmakeTest/googletest/googlemock -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest/include -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/waldri/Cpp/CmakeTest/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/waldri/Cpp/CmakeTest/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/waldri/Cpp/CmakeTest/build/googletest/googlemock",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/waldri/Cpp/CmakeTest/googletest/googlemock/include -I/home/waldri/Cpp/CmakeTest/googletest/googlemock -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest/include -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/waldri/Cpp/CmakeTest/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/waldri/Cpp/CmakeTest/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/waldri/Cpp/CmakeTest/build/googletest/googletest",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest/include -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/waldri/Cpp/CmakeTest/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/waldri/Cpp/CmakeTest/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/waldri/Cpp/CmakeTest/build/googletest/googletest",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/waldri/Cpp/CmakeTest/googletest/googletest/include -I/home/waldri/Cpp/CmakeTest/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/waldri/Cpp/CmakeTest/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/waldri/Cpp/CmakeTest/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/waldri/Cpp/CmakeTest/build/test",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest/include -isystem /home/waldri/Cpp/CmakeTest/googletest/googletest  -g -fPIE   -std=gnu++11 -o CMakeFiles/ExampleTest.dir/ExampleTest.cpp.o -c /home/waldri/Cpp/CmakeTest/test/ExampleTest.cpp",
+  "file": "/home/waldri/Cpp/CmakeTest/test/ExampleTest.cpp"
+}
+]

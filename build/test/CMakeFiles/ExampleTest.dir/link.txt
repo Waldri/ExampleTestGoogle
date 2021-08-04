@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/ExampleTest.dir/ExampleTest.cpp.o  -o ExampleTest  ../lib/libgtest_maind.a ../libExample.a ../lib/libgtestd.a -lpthread 

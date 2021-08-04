@@ -1,0 +1,29 @@
+Start testing: Aug 04 15:26 BST
+----------------------------------------------------------
+1/1 Testing: ExampleTest
+1/1 Test: ExampleTest
+Command: "/home/waldri/Cpp/CmakeTest/build/test/ExampleTest"
+Directory: /home/waldri/Cpp/CmakeTest/build/test
+"ExampleTest" start time: Aug 04 15:26 BST
+Output:
+----------------------------------------------------------
+Running main() from /home/waldri/Cpp/CmakeTest/googletest/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTest
+[ RUN      ] ExampleTest.DemoTest
+[       OK ] ExampleTest.DemoTest (0 ms)
+[----------] 1 test from ExampleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleTest" end time: Aug 04 15:26 BST
+"ExampleTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 04 15:26 BST
